@@ -15,6 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        // do stuff  -- the first point of entry in launch
         return View();
     }
 
